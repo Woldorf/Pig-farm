@@ -9,3 +9,5 @@ Any concerns, complaints, issues, or weird comments, just reach out to me throug
 
 This game is kind of similar to any "this eats that" game such as hole.io, pig eats until it reachers a max size then goes to the base to continue or quit
 More features to come as I work on it. The Research tab on the start screen is not currently fully functional, I'm workin on it I swear
+
+Check out other games made by me as well, all on Github
